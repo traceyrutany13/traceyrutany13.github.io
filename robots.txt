@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://traceyrutany13.github.io/traceyrutany13_github_io_zp533_11.txt
+Sitemap: https://traceyrutany13.github.io/traceyrutany13_github_io_zp533_16.txt
+Sitemap: https://traceyrutany13.github.io/traceyrutany13_github_io_zp533_20.txt
+Sitemap: https://traceyrutany13.github.io/traceyrutany13_github_io_zp533_25.txt
+Sitemap: https://traceyrutany13.github.io/traceyrutany13_github_io_zp533_3.txt
+Sitemap: https://traceyrutany13.github.io/traceyrutany13_github_io_zp533_8.txt
